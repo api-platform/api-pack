@@ -2,7 +2,7 @@
   "name": "api-platform/api-pack",
   "type": "metapackage",
   "license": "MIT",
-  "description": "A pack for API Platform ",
+  "description": "A pack for API Platform",
   "require": {
     "php": "^7.0",
     "api-platform/core": "2.1.x-dev",
