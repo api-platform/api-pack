@@ -15,5 +15,10 @@
     "symfony/security-bundle": "^3.0",
     "symfony/twig-bundle": "^3.0",
     "symfony/validator": "^3.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2.1.x-dev"
+    }
   }
 }
