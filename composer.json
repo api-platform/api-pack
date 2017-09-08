@@ -2,7 +2,7 @@
   "name": "api-platform/api-pack",
   "type": "metapackage",
   "license": "MIT",
-  "description": "A pack for API Platform ",
+  "description": "A pack for API Platform",
   "require": {
     "php": "^7.0",
     "api-platform/core": "^2.1",
@@ -10,9 +10,15 @@
     "doctrine/orm": "^2.4.5",
     "doctrine/doctrine-bundle": "^1.6",
     "phpdocumentor/reflection-docblock": "^3.0",
+    "symfony/asset": "^3.0",
     "symfony/expression-language": "^3.0",
     "symfony/security-bundle": "^3.0",
     "symfony/twig-bundle": "^3.0",
     "symfony/validator": "^3.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2.1.x-dev"
+    }
   }
 }
