@@ -14,6 +14,7 @@
     "symfony/expression-language": "^3.0 || ^4.0",
     "symfony/security-bundle": "^3.0 || ^4.0",
     "symfony/twig-bundle": "^3.0 || ^4.0",
-    "symfony/validator": "^3.0 || ^4.0"
+    "symfony/validator": "^3.0 || ^4.0",
+    "sensio/framework-extra-bundle": "^5.0"
   }
 }
