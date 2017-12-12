@@ -1,6 +1,6 @@
 {
   "name": "api-platform/api-pack",
-  "type": "metapackage",
+  "type": "symfony-pack",
   "license": "MIT",
   "description": "A pack for API Platform",
   "require": {
