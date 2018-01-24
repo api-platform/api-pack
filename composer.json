@@ -15,7 +15,7 @@
     "symfony/security-bundle": "^3.0 || ^4.0",
     "symfony/twig-bundle": "^3.0 || ^4.0",
     "symfony/validator": "^3.0 || ^4.0"
-  }
+  },
   "suggest": {
     "nelmio/cors-bundle": "To support CORS."
   }
