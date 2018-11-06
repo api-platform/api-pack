@@ -1,8 +1,8 @@
 {
-  "name": "api-platform/api-pack",
+  "name": "cr3a7ure/api-pack",
   "type": "symfony-pack",
   "license": "MIT",
-  "description": "A pack for API Platform",
+  "description": "A pack for API Platform, edited to change the core of api-platform",
   "require": {
     "php": "^7.0",
     "cr3a7ure/core": "^2.1",
