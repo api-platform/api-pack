@@ -11,10 +11,10 @@
     "doctrine/doctrine-bundle": "^1.6",
     "nelmio/cors-bundle": "^1.5",
     "phpdocumentor/reflection-docblock": "^3.0 || ^4.0",
-    "symfony/asset": "^3.0 || ^4.0",
-    "symfony/expression-language": "^3.0 || ^4.0",
-    "symfony/security-bundle": "^3.0 || ^4.0",
-    "symfony/twig-bundle": "^3.0 || ^4.0",
-    "symfony/validator": "^3.0 || ^4.0"
+    "symfony/asset": "*",
+    "symfony/expression-language": "*",
+    "symfony/security-bundle": "*",
+    "symfony/twig-bundle": "*",
+    "symfony/validator": "*"
   }
 }
