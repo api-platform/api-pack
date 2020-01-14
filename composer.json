@@ -7,7 +7,7 @@
     "php": "^7.0",
     "api-platform/core": "^2.1",
     "doctrine/annotations": "^1.0",
-    "doctrine/orm": "^2.4.5",
+    "doctrine/orm": "^2.4.5 || ^2.5.0 || ^2.6.0 || ^2.7.0",
     "doctrine/doctrine-bundle": "^1.6 || ^2.0",
     "nelmio/cors-bundle": "^1.5 || ^2.0",
     "phpdocumentor/reflection-docblock": "^3.0 || ^4.0",
