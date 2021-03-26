@@ -4,7 +4,7 @@
   "license": "MIT",
   "description": "A pack for API Platform, edited to change the core of api-platform",
   "require": {
-    "cr3a7ure/core": "*",
+    "cr3a7ure/core": "dev-schydrav2",
     "nelmio/cors-bundle": "*",
     "symfony/asset": "*",
     "symfony/expression-language": "*",
