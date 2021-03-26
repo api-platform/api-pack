@@ -4,17 +4,14 @@
   "license": "MIT",
   "description": "A pack for API Platform, edited to change the core of api-platform",
   "require": {
-    "php": "^7.0",
-    "cr3a7ure/core": "^2.1",
-    "doctrine/annotations": "^1.0",
-    "doctrine/orm": "^2.4.5",
-    "doctrine/doctrine-bundle": "^1.6",
-    "nelmio/cors-bundle": "^1.5",
-    "phpdocumentor/reflection-docblock": "^3.0 || ^4.0",
-    "symfony/asset": "^3.0 || ^4.0",
-    "symfony/expression-language": "^3.0 || ^4.0",
-    "symfony/security-bundle": "^3.0 || ^4.0",
-    "symfony/twig-bundle": "^3.0 || ^4.0",
-    "symfony/validator": "^3.0 || ^4.0"
+    "cr3a7ure/core": "*",
+    "nelmio/cors-bundle": "*",
+    "symfony/asset": "*",
+    "symfony/expression-language": "*",
+    "symfony/orm-pack": "*",
+    "symfony/security-bundle": "*",
+    "symfony/serializer-pack": "*",
+    "symfony/twig-bundle": "*",
+    "symfony/validator": "*"
   }
 }
