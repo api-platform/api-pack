@@ -4,8 +4,11 @@
   "license": "MIT",
   "description": "A pack for API Platform",
   "require": {
-    "api-platform/core": "*",
+    "api-platform/symfony": "*",
+    "api-platform/doctrine-orm": "*",
     "nelmio/cors-bundle": "*",
+    "phpdocumentor/reflection-docblock": "*",
+  
     "symfony/asset": "*",
     "symfony/expression-language": "*",
     "symfony/orm-pack": "*",
